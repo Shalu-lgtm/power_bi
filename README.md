@@ -1,3 +1,5 @@
+https://drive.google.com/file/d/1GL5ZYcP3Lo8Nzy_M5XzefnT1Z4-u8xSG/view?usp=sharing    # project link google drive
+
 # power_bi
 coffe_quality_analysis project 
 🚀 Excited to share my latest project as a Data Analyst Aspirant! 🚀
